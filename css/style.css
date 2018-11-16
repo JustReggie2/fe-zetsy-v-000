@@ -54,3 +54,7 @@ p {
 #press img {
   border-color: rgb(204, 204, 204);
 }
+
+footer p {
+  font-size: 1em;
+}

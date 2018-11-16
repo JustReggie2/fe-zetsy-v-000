@@ -40,3 +40,7 @@ section {
 img {
   border: 5px rgb(150, 173, 166) solid;
 }
+
+h2 {
+  font-size: 2em;
+}

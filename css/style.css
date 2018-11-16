@@ -50,3 +50,7 @@ p {
   font-size: 1em;
   color: rgb(85, 85, 85);
 }
+
+#press a {
+  border-color: rgb(204, 204, 204);
+}

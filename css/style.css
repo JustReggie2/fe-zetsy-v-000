@@ -36,6 +36,7 @@ h1 {
 section {
   display: block;
 }
-#about img {
+
+img {
   border: 5px rgb(150, 173, 166) solid;
 }

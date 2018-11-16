@@ -24,7 +24,8 @@ body {
 
 h1 {
   font-size: 5em;
-  font-family: 'Baskerville',serif;
+  font-weight: normal;
+  font-family: 'Baskerville', serif;
   color: #98ADA6;
 	border-style:solid;
 	border-width: 0 0 1px 0;
@@ -37,5 +38,5 @@ section {
   display: block;
 }
 #about img {
-  
+
 }

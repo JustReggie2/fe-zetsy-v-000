@@ -27,7 +27,7 @@ h1 {
   font-size: 5em;
   font-weight: normal;
   font-family: 'Baskerville', serif;
-  color: #ccc;
+  color: rgb(150, 173, 166);
   border-bottom: 1px solid #ccc;
   padding-bottom: 10px;
 }
